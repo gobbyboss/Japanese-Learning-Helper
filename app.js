@@ -8,8 +8,8 @@ client.on('ready', () => console.log('The Bot is ready!'));
 
 client.on('message', message => {
  
-    if (message.content === 'valorant'){
+    if (message.content === 'Hello'){
         message.react('👑');
-        message.channel.send('Yawn');
+        message.channel.send('Hi');
     }
 })
