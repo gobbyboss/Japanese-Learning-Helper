@@ -9,7 +9,7 @@ module.exports = {
 
 		const item = quiz[Math.floor(Math.random() * quiz.length)];
 		const checkCorrect = response => {
-			return (item.english === response.content.toLowerCase())
+			return (item.english.toLowerCase() === response.content.toLowerCase())
 		};
 
 		interaction.reply(item.japanese, { fetchReply: true })
