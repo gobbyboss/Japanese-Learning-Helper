@@ -267,5 +267,416 @@
     {
         "english": "no",
         "japanese": "いいえ"
+    },
+
+    {
+        "english": "medical science",
+        "japanese": "いがく"
+    },
+
+    {
+        "english": "music",
+        "japanese": "おんがく"
+    },
+
+    {
+        "english": "chemistry",
+        "japanese": "かがく"
+    },
+    
+    {
+        "english": "education",
+        "japanese": "きょういくがく"
+    },
+    
+    {
+        "english": "economics",
+        "japanese": "けいざいがく"
+    },
+    
+    {
+        "english": "architecture",
+        "japanese": "けんちくがく"
+    },
+    
+    {
+        "english": "international relations",
+        "japanese": "こくさいかんけい"
+    },
+    
+    {
+        "english": "computer engineering",
+        "japanese": "コンピューターこうがく"
+    },
+    
+    {
+        "english": "sociology",
+        "japanese": "しゃかいがく"
+    },
+    
+    {
+        "english": "information science",
+        "japanese": "じょうほうかがく"
+    },
+    
+    {
+        "english": "information technology",
+        "japanese": "じょうほうこうがく"
+    },
+    
+    {
+        "english": "psychology",
+        "japanese": "しんりがく"
+    },
+    
+    {
+        "english": "anthropology",
+        "japanese": "じんるいがく"
+    },
+    
+    {
+        "english": "mathematics",
+        "japanese": "すうがく"
+    },
+    
+    {
+        "english": "biology",
+        "japanese": "せいぶつがく"
+    },
+    
+    {
+        "english": "political sciece",
+        "japanese": "せいじがく"
+    },
+    
+    {
+        "english": "fine arts",
+        "japanese": "びじゅつ"
+    },
+    
+    {
+        "english": "physics",
+        "japanese": "ぶつりがく"
+    },
+    
+    {
+        "english": "morning",
+        "japanese": "あさ"
+    },
+    
+    {
+        "english": "breakfast",
+        "japanese": "あさごはん"
+    },
+    
+    {
+        "english": "the day after tomorrow",
+        "japanese": "あさって"
+    },
+    
+    {
+        "english": "tomorrow",
+        "japanese": "あした"
+    },
+    
+    {
+        "english": "home",
+        "japanese": "うち"
+    },
+    
+    {
+        "english": "movie",
+        "japanese": "えいが"
+    },
+    
+    {
+        "english": "the day before yesterday",
+        "japanese": "おととい"
+    },
+    
+    {
+        "english": "bath",
+        "japanese": "おふろ"
+    },
+    
+    {
+        "english": "school",
+        "japanese": "がっこう"
+    },
+    
+    {
+        "english": "Tuesday",
+        "japanese": "かようび"
+    },
+    
+    {
+        "english": "yesterday",
+        "japanese": "きのう"
+    },
+    
+    {
+        "english": "today",
+        "japanese": "きょう"
+    },
+    
+    {
+        "english": "Friday",
+        "japanese": "きんようび"
+    },
+    
+    {
+        "english": "Class",
+        "japanese": "クラス"
+    },
+    
+    {
+        "english": "Monday",
+        "japanese": "げつようび"
+    },
+    
+    {
+        "english": "coffee",
+        "japanese": "ゴーヒー"
+    },
+    
+    {
+        "english": "meal",
+        "japanese": "ごはん"
+    },
+
+    {
+        "english": "cooked rice",
+        "japanese": "ごはん"
+    },
+    
+    {
+        "english": "this week",
+        "japanese": "こんしゅう"
+    },
+    
+    {
+        "english": "tonight",
+        "japanese": "こんばん"
+    },
+    
+    {
+        "english": "shower",
+        "japanese": "シャワー"
+    },
+    
+    {
+        "english": "weekend",
+        "japanese": "しゅうまつ"
+    },
+    
+    {
+        "english": "class",
+        "japanese": "じゅぎょう"
+    },
+    
+    {
+        "english": "homework",
+        "japanese": "しゅくだい"
+    },
+    
+    {
+        "english": "Wednesday",
+        "japanese": "すいようび"
+    },
+    
+    {
+        "english": "living",
+        "japanese": "せいかつ"
+    },
+    
+    {
+        "english": "last week",
+        "japanese": "せんしゅう"
+    },
+    
+    {
+        "english": "next",
+        "japanese": "つぎ"
+    },
+    
+    {
+        "english": "television",
+        "japanese": "テレビ"
+    },
+    
+    {
+        "english": "phone number",
+        "japanese": "でんわばんごう"
+    },
+    
+    {
+        "english": "library",
+        "japanese": "としょかん"
+    },
+    
+    {
+        "english": "saturday",
+        "japanese": "どようび"
+    },
+    
+    {
+        "english": "sunday",
+        "japanese": "にちようび"
+    },
+
+    {
+        "english": "evening",
+        "japanese": "ばん"
+    },
+
+    {
+        "english": "dinner",
+        "japanese": "ばんごはん"
+    },
+
+    {
+        "english": "afternoon",
+        "japanese": "ひる"
+    },
+
+    {
+        "english": "lunch",
+        "japanese": "ひるごはん"
+    },
+    
+    {
+        "english": "study",
+        "japanese": "べんきょう"
+    },
+    
+    {
+        "english": "book",
+        "japanese": "ほん"
+    },
+    
+    {
+        "english": "every morning",
+        "japanese": "まいあさ"
+    },
+    
+    {
+        "english": "every week",
+        "japanese": "まいしゅう"
+    },
+    
+    {
+        "english": "every day",
+        "japanese": "まいにち"
+    },
+    
+    {
+        "english": "every night",
+        "japanese": "まいばん"
+    },
+    
+    {
+        "english": "Thursday",
+        "japanese": "もくようび"
+    },
+    
+    {
+        "english": "to go",
+        "japanese": "いく"
+    },
+    
+    {
+        "english": "to return",
+        "japanese": "かえる"
+    },
+    
+    {
+        "english": "to drink",
+        "japanese": "のむ"
+    },
+    
+    {
+        "english": "to enter",
+        "japanese": "はいる"
+    },
+    
+    {
+        "english": "to drink",
+        "japanese": "よむ"
+    },
+    
+    {
+        "english": "to take a shower",
+        "japanese": "あびる"
+    },
+    
+    {
+        "english": "to get up",
+        "japanese": "おきる"
+    },
+    
+    {
+        "english": "to eat",
+        "japanese": "たべる"
+    },
+    
+    {
+        "english": "to sleep",
+        "japanese": "ねる"
+    },
+    
+    {
+        "english": "to see",
+        "japanese": "みる"
+    },
+    
+    {
+        "english": "to come",
+        "japanese": "くる"
+    },
+    
+    {
+        "english": "to do",
+        "japanese": "する"
+    },
+    
+    {
+        "english": "when",
+        "japanese": "いつ"
+    },
+    
+    {
+        "english": "zero",
+        "japanese": "れい"
+    },
+    
+    {
+        "english": "not very often",
+        "japanese": "あまり"
+    },
+    
+    {
+        "english": "always",
+        "japanese": "いつも"
+    },
+    
+    {
+        "english": "not at all",
+        "japanese": "ぜんぜん"
+    },
+    
+    {
+        "english": "usually",
+        "japanese": "たいてい"
+    },
+    
+    {
+        "english": "sometimes",
+        "japanese": "ときどき"
+    },
+    
+    {
+        "english": "often",
+        "japanese": "よく"
     }
+    
 ]
