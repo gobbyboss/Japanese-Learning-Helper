@@ -5,7 +5,8 @@ const { clientId, guildId, token } = require('./config.json');
 
 const commands = [
 	new SlashCommandBuilder().setName('ping').setDescription('Replies with pong!'),
-	new SlashCommandBuilder().setName('n5vocaben').setDescription('Take an N5 vocab quiz, reply in english'),
+	new SlashCommandBuilder().setName('n5vocaben').setDescription('Take an N5 vocab quiz, reply in english')
+        .addIntegerOption(option => option.setName('int').setDescription('Enter number of words to display')),
 ]
 	.map(command => command.toJSON());
 
