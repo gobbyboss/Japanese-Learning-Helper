@@ -33,8 +33,8 @@ client.on('interactionCreate', async interaction => {
 });
 
 
-client.on('message', message => {
- 
+client.on('messageCreate', message => {
+
     if (message.content === 'Hello'){
         message.react('👑');
         message.channel.send('Hi');
